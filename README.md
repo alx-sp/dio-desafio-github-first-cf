@@ -1,2 +1,2 @@
-# dio-desafio-github-first-cf
-Primeiro desafio de Projeto sobre git/gitHub 06-2022
+# Primeiro desafio da Dio - Repositório git/gitHub
+Feito dentro do Bootcamp Cf
